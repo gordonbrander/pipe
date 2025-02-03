@@ -32,3 +32,5 @@ This module offers four functions:
 - `flowAsync(...fns)` composes many one-argument async functions into a single
   one-argument async function that will apply them left-to-right. flowAsync
   supports using both async and ordinary one-argument functions.
+
+All functions support typesafe overloads for up to 20 functions.
