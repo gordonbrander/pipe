@@ -1,6 +1,7 @@
 {
   "name": "pipe",
   "version": "0.0.1",
+  "license": "MIT",
   "tasks": {
     "dev": "deno run --watch main.ts"
   },
